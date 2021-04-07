@@ -1,0 +1,24 @@
+@media screen and (min-width: 600px) {
+  body {
+    background-color: silver;
+  }
+}
+@media screen and (max-width: 599px) {
+  body {
+    background-color: #e06608;
+  }
+}
+
+.image{
+
+}
+
+.image img{
+	border: 2px solid black;
+	height: 200px;
+	width: 150px;
+}
+
+table tr td{
+	padding: 5px;
+}

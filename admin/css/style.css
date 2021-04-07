@@ -1,0 +1,124 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.navbar-nav {
+	margin-right: 250px;
+
+}
+.main{
+	width: 100%;
+	height: 550px;
+	background-size: cover;
+}
+.navbar-nav a{
+	padding: 20px;
+	font-size: 15px;
+	letter-spacing:1px;
+	text-transform: uppercase;
+} 
+ul li a:hover{
+	color: red;
+}
+.fa-bus{
+	font-size: 35px;
+	margin-right: 5px;
+	color: red;
+}
+.main{
+	padding: 80px;
+}
+.main h2{
+	font-weight: 500;
+	text-transform: uppercase;
+	color:#1f1f14;
+}
+.main p{
+	color: white;
+	margin-top: 30px;
+	text-align: justify;
+}
+/*Footer Menu*/
+
+.footer {
+	background-color:#000080;
+	padding:15px 22px;
+	height: 100px;
+}
+
+ul.social-network {
+	list-style:none;
+	margin-top:14px;
+	padding:10px;
+	transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+}
+
+ul.social-network li {
+	display:inline;
+	margin: 0 18px;
+	font-size:30px;
+}
+
+ul.social-network li a {
+	color:#d0d0d0;
+}
+.social-network li:hover .fa-twitter {
+  color: red;
+}
+.social-network li:hover .fa-facebook {
+  color: red;
+}
+.social-network li:hover .fa-google-plus {
+  color: red;
+}
+.social-network li:hover .fa-pinterest {
+  color: red;
+}
+.social-network li:hover .fa-linkedin {
+  color: red;
+}
+.social-network li:hover .fa-youtube{
+  color: red;
+}
+.social-network li:hover .fa-dribbble {
+  color: red;
+}
+.social-network li:hover .fa-pinterest-square {
+  color: #EA4B49;
+}
+
+.selectset{
+	font-size:20px;
+display: inline-block;
+}
+
+.selectset2{
+	font-size:20px;
+display: inline-block;
+}
+
+.copyright {
+	margin-top:30px;
+    text-align: right;
+}
+.tabel{
+	width: 100%;
+}
+
+.copyright a {
+	color:#fff;
+	font-weight:600;
+	font-size:12px;
+	text-shadow:none;
+}
+.img{
+ background: url(img/Screen.png);
+}
+.form{
+	
+	margin-top: -150px;
+	margin-left: 50%;
+}
